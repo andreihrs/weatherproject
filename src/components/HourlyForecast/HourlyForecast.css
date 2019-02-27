@@ -1,0 +1,4 @@
+.HourlyForecast {
+    display: flex;
+    flex-direction: column;
+}
